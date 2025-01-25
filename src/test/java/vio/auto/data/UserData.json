@@ -1,0 +1,20 @@
+
+  {
+    "username": "Vio",
+    "email": "vio@vio.vio",
+    "password": "123abc",
+    "birthDay": "22",
+    "birthMonth": "12",
+    "birthYear": "1986",
+    "firstName": "Ionut",
+    "lastName":"Viorel",
+    "company": "vio srl",
+    "address1": "first street 123",
+    "address2": "second street 321",
+    "country": "Canada",
+    "state": "canada",
+    "city": "quebec",
+    "zipCode": "3214",
+    "phoneNumber": "0763556655"
+
+  }
